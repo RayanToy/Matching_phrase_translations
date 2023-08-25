@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\TestZad2\TestZad2\obj\Debug\TestZad2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TestZad2\TestZad2\obj\Debug\TestZad2.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\TestZad2\TestZad2\obj\Debug\TestZad2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestZad2\TestZad2\bin\Debug\TestZad2.exe.config
+C:\Users\User\source\repos\TestZad2\TestZad2\bin\Debug\TestZad2.exe
+C:\Users\User\source\repos\TestZad2\TestZad2\bin\Debug\TestZad2.pdb
+C:\Users\User\source\repos\TestZad2\TestZad2\obj\Debug\TestZad2.exe
+C:\Users\User\source\repos\TestZad2\TestZad2\obj\Debug\TestZad2.pdb
